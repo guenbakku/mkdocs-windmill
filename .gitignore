@@ -1,2 +1,5 @@
 /env/
 site
+build
+dist
+*egg-info

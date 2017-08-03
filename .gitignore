@@ -1,5 +1,7 @@
 /env/
 site
 build
+
+# Build folders
 dist
 *egg-info
